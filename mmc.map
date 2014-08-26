@@ -1,0 +1,24 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+prtc_get_time                                                     0260h        2
+prtc_get_date                                                     0262h        2
+buffer                                                            0264h      512
+status                                                            0464h        1
+timer1                                                            0465h        1
+timer2                                                            0466h        1
+card_type                                                         0467h        1
+pv_S100000B000                                                    0468h        1
+FatFs                                                             0469h        2
+Fsid                                                              046Bh        2
+Drive                                                             046Dh        1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+r                                                                 R5           1
+i                                                                 R4           1

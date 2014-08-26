@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:4516A857
+NODE:I LEVEL:0 LINE:1 "C:\CodeVisionAVR\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "C:\CodeVisionAVR\inc\sdcard.h"
+NODE:I LEVEL:0 LINE:3 "C:\CodeVisionAVR\inc\stdio.h"
+NODE:I LEVEL:0 LINE:4 "C:\CodeVisionAVR\inc\delay.h"
+NODE:F LEVEL:0 LINE:7 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:11 "usart_init(void)"
+NODE:F LEVEL:0 LINE:24 "status(unsigned char st)"
+NODE:V LEVEL:0 LINE:37 "r -> R5"
+NODE:V LEVEL:0 LINE:38 "buffer -> RAM:????"
+NODE:V LEVEL:0 LINE:39 "i -> R4"
+NODE:V LEVEL:0 LINE:40 "sector_count -> RAM:????"
+NODE:F LEVEL:0 LINE:41 "main(void)"
